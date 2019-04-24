@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="weixin">微信</string>
+    <string name="content_weixin">通讯录</string>
+    <string name="friend">朋友圈</string>
+    <string name="address">地址</string>
+    <string name="setting">设置</string>
+</resources>
